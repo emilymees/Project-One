@@ -1,5 +1,4 @@
-# Project-One
-Group Project One - Healthcare
+Group 1 - Project 1 – Data Analytics Bootcamp
 ---
 
 Project title:
@@ -18,18 +17,17 @@ Research Questions to Answer
 4.	Environmental factors
 
 Datasets to used – (timeframe of data: 2015 – 2019)
-•	Texas Cancer Registry  
-•	National Toxicology Program
-•	National Cancer Institute
-•	United States Cancer Statistics (USCS)
+*	Texas Cancer Registry  
+*	National Toxicology Program
+*	National Cancer Institute
+*	United States Cancer Statistics (USCS)
 
 Rough breakdown of Tasks 
-•	Data collection and cleaning and plotting: Everyone
-•	Topics:
-o	    Ethnicity (Shelby)
-o	    Geographic location (Charles)
-o	    Environmental factors (Jackie)
-o	    Income (Emily)
-
-•	GitHub: Emily Boulware (https://github.com/emilymees/Project-One)
-•   Slide Deck: Charles Quinn
+*	Data collection and cleaning and plotting: Everyone
+*	GitHub: Emily Boulware (https://github.com/emilymees/Project-One)
+*   Slide Deck: Charles Quinn
+*	Topics:
+    -   Ethnicity (Shelby)
+    -   Geographic location (Charles)
+    -   Environmental factors (Jackie)
+    -   Income (Emily)

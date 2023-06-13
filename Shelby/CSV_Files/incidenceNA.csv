@@ -1,0 +1,26 @@
+Invasive Cancer Incidence Rates by County in Texas
+"Breast Male and Female, NH American Indian/Alaska Native, 2015 - 2019"
+County,Population at Risk,Cases,Crude Rate,Age-adjusted Rate,95% Confidence Interval-Lower Limit,95% Confidence Interval-Upper Limit
+Fort Bend,9663,24,248.4,297.3,186.1,448.7
+Collin,22337,33,147.7,152.1,103.4,216.1
+Williamson,10043,  ~,  ~,  ~,  ~,  ~
+Travis,18002,21,116.7,109.0,65.3,173.5
+Grayson,9924,  ~,  ~,  ~,  ~,  ~
+Dallas,45190,43,95.2,87.2,62.4,118.8
+Denton,21230,18,84.8,85.6,48.6,140.4
+Lubbock,6439,  ~,  ~,  ~,  ~,  ~
+Tarrant,45403,38,83.7,75.2,52.2,105.2
+Harris,55454,35,63.1,56.2,38.3,79.9
+Brazoria,7121,  ~,  ~,  ~,  ~,  ~
+Parker,5264,  ~,  ~,  ~,  ~,  ~
+Montgomery,11914,  ~,  ~,  ~,  ~,  ~
+Bexar,27904,  ~,  ~,  ~,  ~,  ~
+Bell,9245,  ~,  ~,  ~,  ~,  ~
+Wichita,5625,  ~,  ~,  ~,  ~,  ~
+El Paso,12891,0, 0.0, 0.0, 0.0, 0.0
+Galveston,6791,0, 0.0, 0.0, 0.0, 0.0
+STATE,524015,378,72.1,65.2, 58.6,72.5
+
+"Note: All rates are per 100,000. Rates are age-adjusted to the 2000 U.S. Standard Population."
+"Rates generated on Jun 12, 2023."
+"Cancer Incidence File, Apr 2022."

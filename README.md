@@ -7,27 +7,27 @@ Breast Cancer Diagnosis Rates and Socio-Demographic Factors
 Team Members:
 Charles Quinn, Emily Boulware, Shelby Reyes-Widrick, Jackeline Larios
 
-Project Descriptions / Outline 
-Identifying the prevalence of breast cancer over a 4-year period between different socio-demographic factors (ethnicity, County of residence, income level) in Texas.
+Project Descriptions / Outline:  
+Examine the occurrence of breast cancer diagnoses and mortality rates over a 5-year period while focusing on various socio-demographic factors (ethnicity, median household income, unemployment rate) and how these factors differ between the U.S. and Texas.
 
 Research Questions to Answer
-1.	Ethnicity
-2.	Income
-3.	Geographic location
-4.	Environmental factors
+1.  Is there a higher rate of incidence/mortality based on ethnicity?
+2.  Does median household income affect the incidence/mortality rate?
+3.  If the unemployment rate is higher will there be a higher rate of incidence/mortality?
+4.  How does Texas differ from the U.S. as a whole?
 
-Datasets to used – (timeframe of data: 2015 – 2019)
-*	Texas Cancer Registry  
-*	National Toxicology Program
-*	National Cancer Institute
-*	United States Cancer Statistics (USCS)
+
+Datasets used – (timeframe of data: 2015 – 2019)
+*	Bureau of Labor Statistics (BLS)
+*	Centers for Disease Control and Prevention (CDC)
+
 
 Rough breakdown of Tasks 
 *	Data collection and cleaning and plotting: Everyone
 *	GitHub: Emily Boulware (https://github.com/emilymees/Project-One)
-*   Slide Deck: Charles Quinn
+*   Slide Deck: Shelby & Jackie
 *	Topics:
     -   Ethnicity (Shelby)
-    -   Geographic location (Charles)
-    -   Environmental factors (Jackie)
-    -   Income (Emily)
+    -   Income (Charles)
+    -   Unemployment (Jackie)
+    -   Texas (Emily)

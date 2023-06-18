@@ -1,0 +1,56 @@
+Invasive Cancer Incidence Rates by County in Texas
+"Breast Male and Female, NH Asian/PI, 2018"
+County,Population at Risk,Cases,Crude Rate,Age-adjusted Rate,95% Confidence Interval-Lower Limit,95% Confidence Interval-Upper Limit
+Victoria,1273,  ~,  ~,  ~,  ~,  ~
+Gregg,1826,  ~,  ~,  ~,  ~,  ~
+Parker,1173,  ~,  ~,  ~,  ~,  ~
+Wichita,3186,  ~,  ~,  ~,  ~,  ~
+Navarro,1093,  ~,  ~,  ~,  ~,  ~
+Orange,1129,  ~,  ~,  ~,  ~,  ~
+Smith,4065,  ~,  ~,  ~,  ~,  ~
+Hunt,1636,  ~,  ~,  ~,  ~,  ~
+Midland,3778,  ~,  ~,  ~,  ~,  ~
+Coryell,2446,  ~,  ~,  ~,  ~,  ~
+Bell,14693,  ~,  ~,  ~,  ~,  ~
+Travis,93535,48,51.3,62.9,45.2,85.2
+Collin,167548,87,51.9,61.6,48.3,77.4
+Galveston,12457,  ~,  ~,  ~,  ~,  ~
+Grayson,2201,  ~,  ~,  ~,  ~,  ~
+Hidalgo,8372,  ~,  ~,  ~,  ~,  ~
+Denton,85229,43,50.5,54.6,39.0,74.7
+Webb,1445,  ~,  ~,  ~,  ~,  ~
+El Paso,11814,  ~,  ~,  ~,  ~,  ~
+Harris,350525,182,51.9,50.5,43.3,58.6
+McLennan,4737,  ~,  ~,  ~,  ~,  ~
+Fort Bend,168051,84,50.0,49.3,39.0,61.5
+Montgomery,20106,  ~,  ~,  ~,  ~,  ~
+Tarrant,127270,62,48.7,48.0,36.7,62.0
+Williamson,45581,17,37.3,45.5,26.1,74.4
+Bexar,65732,26,39.5,44.2,28.4,65.3
+Dallas,179531,70,39.0,41.8,32.3,53.1
+Comal,2199,  ~,  ~,  ~,  ~,  ~
+Randall,2593,  ~,  ~,  ~,  ~,  ~
+Taylor,3372,  ~,  ~,  ~,  ~,  ~
+Potter,6500,  ~,  ~,  ~,  ~,  ~
+Nueces,8167,  ~,  ~,  ~,  ~,  ~
+Brazoria,26418,  ~,  ~,  ~,  ~,  ~
+Rockwall,3453,  ~,  ~,  ~,  ~,  ~
+Lubbock,7860,  ~,  ~,  ~,  ~,  ~
+Jefferson,10128,  ~,  ~,  ~,  ~,  ~
+Brazos,14619,  ~,  ~,  ~,  ~,  ~
+Hays,4079,  ~,  ~,  ~,  ~,  ~
+Guadalupe,3691,  ~,  ~,  ~,  ~,  ~
+Kaufman,1879,0, 0.0, 0.0, 0.0, 0.0
+Ector,2114,0, 0.0, 0.0, 0.0, 0.0
+Ellis,1778,0, 0.0, 0.0, 0.0, 0.0
+Moore,1312,0, 0.0, 0.0, 0.0, 0.0
+Cameron,3104,0, 0.0, 0.0, 0.0, 0.0
+Tom Green,1860,0, 0.0, 0.0, 0.0, 0.0
+Calhoun,1196,0, 0.0, 0.0, 0.0, 0.0
+Bowie,1306,0, 0.0, 0.0, 0.0, 0.0
+Johnson,2499,0, 0.0, 0.0, 0.0, 0.0
+STATE,1524514,722,47.4,50.1, 46.4,54.0
+
+"Note: All rates are per 100,000. Rates are age-adjusted to the 2000 U.S. Standard Population."
+"Rates generated on Jun 13, 2023."
+"Cancer Incidence File, Apr 2022."

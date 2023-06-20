@@ -20,8 +20,11 @@ Research Questions to Answer
 
 
 Datasets used – (timeframe of data: 2015 – 2019)
-*	Bureau of Labor Statistics (BLS)
-*	Centers for Disease Control and Prevention (CDC)
+*	Centers for Disease Control and Prevention (CDC): Chronic Conditions (Cancer)
+*   Bureau of Economic Analysis (BEA): Median Household Income
+*   Bureau of Labor Statistics (BLS): Unemployment Rates (1976 – Present) 
+*   S&P 500 PE Ratio: US Median Income by Year
+
 
 
 Rough breakdown of Tasks 

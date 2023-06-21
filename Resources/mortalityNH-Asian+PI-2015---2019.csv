@@ -1,0 +1,54 @@
+Cancer Mortality Rates by County in Texas
+"Breast Male and Female, NH Asian/PI, 2015 - 2019"
+County,Population at Risk,Deaths,Crude Rate,Age-adjusted Rate,95% Confidence Interval-Lower Limit,95% Confidence Interval-Upper Limit
+Ellis,8302,  ~,  ~,  ~,  ~,  ~
+Gregg,9418,  ~,  ~,  ~,  ~,  ~
+Coryell,12201,  ~,  ~,  ~,  ~,  ~
+Johnson,11733,  ~,  ~,  ~,  ~,  ~
+Bell,71818,  ~,  ~,  ~,  ~,  ~
+Bowie,6495,  ~,  ~,  ~,  ~,  ~
+Victoria,6384,  ~,  ~,  ~,  ~,  ~
+Wichita,15741,  ~,  ~,  ~,  ~,  ~
+Cameron,15043,  ~,  ~,  ~,  ~,  ~
+Tom Green,8807,  ~,  ~,  ~,  ~,  ~
+El Paso,58686,  ~,  ~,  ~,  ~,  ~
+Taylor,16556,  ~,  ~,  ~,  ~,  ~
+Hays,19044,  ~,  ~,  ~,  ~,  ~
+Travis,449885,24, 5.3, 8.0, 4.9,12.3
+Potter,33067,  ~,  ~,  ~,  ~,  ~
+Bexar,318173,21, 6.6, 7.6, 4.6,11.7
+Fort Bend,798538,48, 6.0, 6.9, 5.0, 9.4
+Harris,1728755,106, 6.1, 6.6, 5.3, 8.0
+Nueces,40200,  ~,  ~,  ~,  ~,  ~
+Denton,394064,18, 4.6, 6.1, 3.4,10.0
+Tarrant,614113,31, 5.0, 5.7, 3.8, 8.3
+Collin,775901,25, 3.2, 5.7, 3.5, 8.7
+Hidalgo,41693,  ~,  ~,  ~,  ~,  ~
+Dallas,871355,38, 4.4, 5.4, 3.7, 7.5
+Brazoria,125496,  ~,  ~,  ~,  ~,  ~
+McLennan,22986,  ~,  ~,  ~,  ~,  ~
+Williamson,208832,  ~,  ~,  ~,  ~,  ~
+Galveston,60194,  ~,  ~,  ~,  ~,  ~
+Guadalupe,17565,  ~,  ~,  ~,  ~,  ~
+Jefferson,50835,  ~,  ~,  ~,  ~,  ~
+Lubbock,38427,  ~,  ~,  ~,  ~,  ~
+Montgomery,93623,  ~,  ~,  ~,  ~,  ~
+Brazos,72533,  ~,  ~,  ~,  ~,  ~
+Kaufman,8628,0, 0.0, 0.0, 0.0, 0.0
+Midland,18365,0, 0.0, 0.0, 0.0, 0.0
+Moore,7251,0, 0.0, 0.0, 0.0, 0.0
+Orange,5442,0, 0.0, 0.0, 0.0, 0.0
+Randall,12395,0, 0.0, 0.0, 0.0, 0.0
+Comal,9978,0, 0.0, 0.0, 0.0, 0.0
+Smith,19698,0, 0.0, 0.0, 0.0, 0.0
+Grayson,10513,0, 0.0, 0.0, 0.0, 0.0
+Rockwall,16274,0, 0.0, 0.0, 0.0, 0.0
+Ector,10357,0, 0.0, 0.0, 0.0, 0.0
+Calhoun,5875,0, 0.0, 0.0, 0.0, 0.0
+Webb,7291,0, 0.0, 0.0, 0.0, 0.0
+Hunt,7888,0, 0.0, 0.0, 0.0, 0.0
+STATE,7332551,386, 5.3, 6.3,  5.7, 7.0
+
+"Note: All rates are per 100,000. Rates are age-adjusted to the 2000 U.S. Standard Population."
+"Rates generated on Jun 20, 2023."
+"Cancer Incidence File, Apr 2022."

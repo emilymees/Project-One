@@ -29,6 +29,7 @@ Examine the occurrence of breast cancer diagnoses and mortality rates over a 5-y
 
 # Main conclusions:
 *   Non-Hispanic White populations had a higher incidence & mortality rate compared to black & hispanic both nationally and in Texas. 
+
 ![Alt text](https://github.com/emilymees/Project-One/blob/main/Figures/C_US_Incidences.png)
 ![Alt text](https://github.com/emilymees/Project-One/blob/main/Figures/C_US_Mortalities.png)
 ![Alt text](https://github.com/emilymees/Project-One/blob/main/Figures/1_TX_Incidences.png)

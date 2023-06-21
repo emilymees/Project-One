@@ -37,7 +37,7 @@ Examine the occurrence of breast cancer diagnoses and mortality rates over a 5-y
 
 *   A strong positive relation between median household income and breast cancer mortalities & incidences across the board for each ethnicity both nationally and in Texas. 
 ![Alt text](https://github.com/emilymees/Project-One/blob/main/Figures/C_US_IncidencesIncome.png)
-![Alt text](https://github.com/emilymees/Project-One/blob/main/Figures/C_US_IncidencesUnemploy.png)
+![Alt text](https://github.com/emilymees/Project-One/blob/main/Figures/C_US_MortalitiesIncome.png)
 
 *   The data shows as the unemployment rate increases the number of breast cancer incidences and cancer deaths decrease both Nationally and in Texas. We speculate this strong negative correlation could be due to less testing being performed due to economic budget constraints at the national level and fewer people going to the doctor due to lack of funds.
 ![Alt text](https://github.com/emilymees/Project-One/blob/main/Figures/C_US_IncidencesUnemploy.png)

@@ -36,3 +36,9 @@ Rough breakdown of Tasks
     -   Income 
     -   Unemployment 
     -   Texas 
+
+
+Main conclusions:
+*   Non-Hispanic White populations had a higher incidence & mortality rate compared to black & hispanic both nationally and in Texas
+*   A strong positive relation between median household income and breast cancer mortalities & incidences across the board for each ethnicity both nationally and in Texas
+*   There is a negative correlation between unemployment rate and breast cancer mortalities & incidences both nationally and in Texas
